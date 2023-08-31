@@ -5,19 +5,19 @@
   border-radius: 8px;
   padding: 1rem;
   text-align: center;
-  background-color: #f4f0fa;
+  background-color: #fdd7f8;
 }
 
 .counter h1 {
   text-transform: uppercase;
-  color: #575757;
+  color: #181717;
   margin: 0;
   font-size: 1rem;
 }
 
 .value {
   font-size: 2rem;
-  color: #3c0080;
+  color: #800042;
   margin: 2rem 0;
   font-weight: bold;
 }
